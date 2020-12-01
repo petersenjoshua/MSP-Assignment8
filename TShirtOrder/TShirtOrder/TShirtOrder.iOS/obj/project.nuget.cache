@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SG/eUTjRGjhKnNCeu78KVpe3J7Olc/xdypXDgAsk25dCPNlbTK9FhDLSbQRKvrE+vEU+Ubk0WYJ1hA4eGUKfiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joshua petersen\\Source\\Repos\\MSP-Assignment8\\TShirtOrder\\TShirtOrder\\TShirtOrder.iOS\\TShirtOrder.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
